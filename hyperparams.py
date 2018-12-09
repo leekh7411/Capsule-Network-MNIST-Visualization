@@ -14,3 +14,4 @@ DIGIT_CAP_DIM = 2
 PLOTLY_USR = 'your id'
 PLOTLY_API = 'your api-key'
 
+
