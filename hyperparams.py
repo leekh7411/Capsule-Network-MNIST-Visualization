@@ -11,6 +11,6 @@ DIGIT_CAP_DIM = 2
 
 # if you want to use Plotly
 # get your id and API-key(it is free)
-PLOTLY_USR = 'leekh7411'
-PLOTLY_API = 'TpVmYissOlbSE8Q3EPix'
+PLOTLY_USR = 'your id'
+PLOTLY_API = 'your api-key'
 
